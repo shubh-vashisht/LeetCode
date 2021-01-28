@@ -21,3 +21,4 @@
 |1282|[ Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[Java](./solutions/1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.java)|4 ms|
 |1302|[ Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[Java](./solutions/1302.%20Deepest%20Leaves%20Sum.java)|2 ms|
 |1315|[ Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|[Java](./solutions/1315.%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent.java)|2 ms|
+|1379|[ Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|[Java](./solutions/1379.%20Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree.java)|2 ms|
