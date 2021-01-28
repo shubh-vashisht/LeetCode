@@ -15,3 +15,4 @@
 |581|[ Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Java](./solutions/581.%20Shortest%20Unsorted%20Continuous%20Subarray.java)|12 ms|
 |654|[ Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|[Java](./solutions/654.%20Maximum%20Binary%20Tree.java)|4 ms|
 |701|[ Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Java](./solutions/701.%20Insert%20into%20a%20Binary%20Search%20Tree.java)|0 ms|
+|725|[ Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)|[Java](./solutions/725.%20Split%20Linked%20List%20in%20Parts.java)|0 ms|
