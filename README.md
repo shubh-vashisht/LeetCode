@@ -20,3 +20,4 @@
 |1010|[ Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[Java](./solutions/1010.%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.java)|3 ms|
 |1282|[ Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[Java](./solutions/1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.java)|4 ms|
 |1302|[ Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[Java](./solutions/1302.%20Deepest%20Leaves%20Sum.java)|2 ms|
+|1315|[ Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|[Java](./solutions/1315.%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent.java)|2 ms|
